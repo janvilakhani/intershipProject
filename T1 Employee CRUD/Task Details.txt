@@ -1,0 +1,4 @@
+setup new node project
+create crud api.
+tableName: employees 
+column: id,name,profile_img,salary,deparment
